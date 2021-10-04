@@ -1,2 +1,3 @@
 This is the first test file of this repository.
 I am going to commit this file and then continue watching the tutorial video.
+Added a new line to this file.
